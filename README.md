@@ -4,7 +4,7 @@ HID's is a (H)uman (I)ntrusion (D)etection (S)ystem which uses aritificial
 intelligence to scan for facial features through video feed. If an intruder is
 detecteded then notifies the system. 
 
-![./src/mascot.png](mascot.png)
+![mascot.png](./src/mascot.png)
 
 ## Dependencies
 
